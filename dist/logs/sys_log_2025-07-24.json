@@ -1,0 +1,345 @@
+[
+    {
+        "timestamp": "2025-07-24T22:35:10.566476",
+        "user": "fedora",
+        "hostname": "fedora",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 9.0
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 6202167296,
+                    "available": 2238181376,
+                    "percent": 63.9,
+                    "used": 3133632512,
+                    "free": 176029696,
+                    "active": 2141995008,
+                    "inactive": 3010441216,
+                    "buffers": 311296,
+                    "cached": 2892193792,
+                    "shared": 530575360,
+                    "slab": 319963136
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 67642589184,
+                    "used": 15387119616,
+                    "free": 48871747584,
+                    "percent": 23.9
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 0,
+                    "bytes_recv": 1528,
+                    "packets_sent": 0,
+                    "packets_recv": 18,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T22:35:16.643015",
+        "user": "fedora",
+        "hostname": "fedora",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 5.0
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 6202167296,
+                    "available": 2268037120,
+                    "percent": 63.4,
+                    "used": 3114741760,
+                    "free": 205676544,
+                    "active": 2130993152,
+                    "inactive": 3010641920,
+                    "buffers": 311296,
+                    "cached": 2881437696,
+                    "shared": 519602176,
+                    "slab": 320073728
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 67642589184,
+                    "used": 15387119616,
+                    "free": 48871747584,
+                    "percent": 23.9
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 0,
+                    "bytes_recv": 3240,
+                    "packets_sent": 0,
+                    "packets_recv": 38,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T22:35:22.646119",
+        "user": "fedora",
+        "hostname": "fedora",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 3.0
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 6202167296,
+                    "available": 2256474112,
+                    "percent": 63.6,
+                    "used": 3123470336,
+                    "free": 193863680,
+                    "active": 2138820608,
+                    "inactive": 3010641920,
+                    "buffers": 311296,
+                    "cached": 2884521984,
+                    "shared": 522403840,
+                    "slab": 320065536
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 67642589184,
+                    "used": 15387119616,
+                    "free": 48871747584,
+                    "percent": 23.9
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 0,
+                    "bytes_recv": 3240,
+                    "packets_sent": 0,
+                    "packets_recv": 38,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T22:35:28.659944",
+        "user": "fedora",
+        "hostname": "fedora",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 13.3
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 6202167296,
+                    "available": 2259210240,
+                    "percent": 63.6,
+                    "used": 3120758784,
+                    "free": 196534272,
+                    "active": 2139000832,
+                    "inactive": 3010666496,
+                    "buffers": 311296,
+                    "cached": 2884562944,
+                    "shared": 522403840,
+                    "slab": 320094208
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 67642589184,
+                    "used": 15387119616,
+                    "free": 48871747584,
+                    "percent": 23.9
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 96,
+                    "bytes_recv": 3398,
+                    "packets_sent": 1,
+                    "packets_recv": 40,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T22:35:34.674502",
+        "user": "fedora",
+        "hostname": "fedora",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 2.0
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 6202167296,
+                    "available": 2266181632,
+                    "percent": 63.5,
+                    "used": 3113775104,
+                    "free": 203468800,
+                    "active": 2139435008,
+                    "inactive": 3010703360,
+                    "buffers": 311296,
+                    "cached": 2884612096,
+                    "shared": 522416128,
+                    "slab": 320069632
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 67642589184,
+                    "used": 15387119616,
+                    "free": 48871747584,
+                    "percent": 23.9
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 156,
+                    "bytes_recv": 3544,
+                    "packets_sent": 2,
+                    "packets_recv": 42,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T22:35:40.678578",
+        "user": "fedora",
+        "hostname": "fedora",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 5.7
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 6202167296,
+                    "available": 2270003200,
+                    "percent": 63.4,
+                    "used": 3109961728,
+                    "free": 205709312,
+                    "active": 2139738112,
+                    "inactive": 3012276224,
+                    "buffers": 311296,
+                    "cached": 2886184960,
+                    "shared": 522399744,
+                    "slab": 320102400
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 67642589184,
+                    "used": 15397122048,
+                    "free": 48861777920,
+                    "percent": 24.0
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 222,
+                    "bytes_recv": 14770,
+                    "packets_sent": 3,
+                    "packets_recv": 89,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T22:35:47.120525",
+        "user": "fedora",
+        "hostname": "fedora",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 8.8
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 6202167296,
+                    "available": 2254098432,
+                    "percent": 63.7,
+                    "used": 3125542912,
+                    "free": 189800448,
+                    "active": 2140483584,
+                    "inactive": 3012280320,
+                    "buffers": 311296,
+                    "cached": 2886512640,
+                    "shared": 522723328,
+                    "slab": 320118784
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 67642589184,
+                    "used": 15397122048,
+                    "free": 48861777920,
+                    "percent": 24.0
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 222,
+                    "bytes_recv": 16624,
+                    "packets_sent": 3,
+                    "packets_recv": 110,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    }
+]
