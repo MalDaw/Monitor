@@ -341,5 +341,736 @@
                 }
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-24T23:04:25.838858",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 24.4
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 1068331008,
+                    "percent": 93.8,
+                    "used": 16030834688,
+                    "free": 1068331008
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327604736,
+                    "free": 156446126080,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 31183,
+                    "bytes_recv": 53085,
+                    "packets_sent": 42,
+                    "packets_recv": 49,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:04:31.855765",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 9.4
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 1085411328,
+                    "percent": 93.7,
+                    "used": 16013754368,
+                    "free": 1085411328
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327678464,
+                    "free": 156446052352,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 117993,
+                    "bytes_recv": 388935,
+                    "packets_sent": 294,
+                    "packets_recv": 375,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:04:37.867610",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 4.6
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 1293033472,
+                    "percent": 92.4,
+                    "used": 15806132224,
+                    "free": 1293033472
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327752192,
+                    "free": 156445978624,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 361838,
+                    "bytes_recv": 438411,
+                    "packets_sent": 558,
+                    "packets_recv": 562,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:04:43.878879",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 8.0
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 1295978496,
+                    "percent": 92.4,
+                    "used": 15803187200,
+                    "free": 1295978496
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327879168,
+                    "free": 156445851648,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 362816,
+                    "bytes_recv": 447182,
+                    "packets_sent": 572,
+                    "packets_recv": 599,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:04:49.890306",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 11.4
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 1098641408,
+                    "percent": 93.6,
+                    "used": 16000524288,
+                    "free": 1098641408
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327883264,
+                    "free": 156445847552,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 377355,
+                    "bytes_recv": 467698,
+                    "packets_sent": 641,
+                    "packets_recv": 668,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:04:55.901860",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 2.5
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 1072152576,
+                    "percent": 93.7,
+                    "used": 16027013120,
+                    "free": 1072152576
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327887360,
+                    "free": 156445843456,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 391128,
+                    "bytes_recv": 507326,
+                    "packets_sent": 730,
+                    "packets_recv": 760,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:05:01.913538",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 3.4
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 1008189440,
+                    "percent": 94.1,
+                    "used": 16090976256,
+                    "free": 1008189440
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327956992,
+                    "free": 156445773824,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 423512,
+                    "bytes_recv": 530284,
+                    "packets_sent": 833,
+                    "packets_recv": 840,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:23:50.805034",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 20.1
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 8537100288,
+                    "percent": 50.1,
+                    "used": 8562065408,
+                    "free": 8537100288
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327465472,
+                    "free": 156446265344,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 648,
+                    "bytes_recv": 865,
+                    "packets_sent": 5,
+                    "packets_recv": 3,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:23:56.822741",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 6.4
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 8581595136,
+                    "percent": 49.8,
+                    "used": 8517570560,
+                    "free": 8581595136
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327535104,
+                    "free": 156446195712,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 21074,
+                    "bytes_recv": 6705,
+                    "packets_sent": 32,
+                    "packets_recv": 23,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:24:02.840494",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 5.3
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 8556249088,
+                    "percent": 50.0,
+                    "used": 8542916608,
+                    "free": 8556249088
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327535104,
+                    "free": 156446195712,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 22019,
+                    "bytes_recv": 8738,
+                    "packets_sent": 44,
+                    "packets_recv": 37,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:24:08.858691",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 7.3
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 8508067840,
+                    "percent": 50.2,
+                    "used": 8591097856,
+                    "free": 8508067840
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327535104,
+                    "free": 156446195712,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 53902,
+                    "bytes_recv": 30112,
+                    "packets_sent": 128,
+                    "packets_recv": 127,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:24:14.872738",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 9.2
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 8509775872,
+                    "percent": 50.2,
+                    "used": 8589389824,
+                    "free": 8509775872
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327604736,
+                    "free": 156446126080,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 56251,
+                    "bytes_recv": 32349,
+                    "packets_sent": 162,
+                    "packets_recv": 154,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:24:20.877990",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 6.8
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 8519602176,
+                    "percent": 50.2,
+                    "used": 8579563520,
+                    "free": 8519602176
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327604736,
+                    "free": 156446126080,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 58646,
+                    "bytes_recv": 34405,
+                    "packets_sent": 195,
+                    "packets_recv": 176,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:24:26.888613",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 4.9
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 8548171776,
+                    "percent": 50.0,
+                    "used": 8550993920,
+                    "free": 8548171776
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327604736,
+                    "free": 156446126080,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 59441,
+                    "bytes_recv": 35169,
+                    "packets_sent": 205,
+                    "packets_recv": 183,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:24:32.905932",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 5.8
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 8519831552,
+                    "percent": 50.2,
+                    "used": 8579334144,
+                    "free": 8519831552
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327674368,
+                    "free": 156446056448,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 61185,
+                    "bytes_recv": 37005,
+                    "packets_sent": 228,
+                    "packets_recv": 202,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:24:38.922923",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 3.5
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 8475598848,
+                    "percent": 50.4,
+                    "used": 8623566848,
+                    "free": 8475598848
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327674368,
+                    "free": 156446056448,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 71105,
+                    "bytes_recv": 40950,
+                    "packets_sent": 259,
+                    "packets_recv": 232,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-07-24T23:24:44.938590",
+        "user": "Dawid",
+        "hostname": "DESKTOP-K4JJPFI",
+        "metrics": [
+            {
+                "title": "CPU_usage",
+                "data": 4.5
+            },
+            {
+                "title": "Memory_info",
+                "data": {
+                    "total": 17099165696,
+                    "available": 8517529600,
+                    "percent": 50.2,
+                    "used": 8581636096,
+                    "free": 8517529600
+                }
+            },
+            {
+                "title": "Disk_usage",
+                "data": {
+                    "total": 755773730816,
+                    "used": 599327674368,
+                    "free": 156446056448,
+                    "percent": 79.3
+                }
+            },
+            {
+                "title": "Net IO",
+                "data": {
+                    "bytes_sent": 74202,
+                    "bytes_recv": 43667,
+                    "packets_sent": 304,
+                    "packets_recv": 262,
+                    "errin": 0,
+                    "errout": 0,
+                    "dropin": 0,
+                    "dropout": 0
+                }
+            }
+        ]
     }
 ]
