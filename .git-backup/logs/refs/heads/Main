@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 ca1be1583111e662635cbd822a128153a9a56c85 moja name <you@example.com> 1752004022 +0200	commit (initial): pierwszy commit, podstawowe zbieranie danych i logger
+ca1be1583111e662635cbd822a128153a9a56c85 e9ac5b6d5e4c53c996e511b847bd301c1342e647 moja name <you@example.com> 1752091440 +0200	commit: added connections, need to go faster
+e9ac5b6d5e4c53c996e511b847bd301c1342e647 b14e47fd66d87ebec1efe16dae9511b1caced194 moja name <you@example.com> 1752177947 +0200	commit: dodano run
+b14e47fd66d87ebec1efe16dae9511b1caced194 398d79ba2421c0e106bf86beab03d55f7c852be3 moja name <you@example.com> 1752327467 +0200	commit: Dodano alerty i progi z config.ini
+398d79ba2421c0e106bf86beab03d55f7c852be3 a6be31d2544bb6c0ba1107ef0d860c740806cd6c moja name <you@example.com> 1752438230 +0200	commit: Szkielet bazy, alerty do pliku
+a6be31d2544bb6c0ba1107ef0d860c740806cd6c a6be31d2544bb6c0ba1107ef0d860c740806cd6c moja name <you@example.com> 1752438347 +0200	Branch: renamed refs/heads/master to refs/heads/Main
+a6be31d2544bb6c0ba1107ef0d860c740806cd6c 467a32347eb1e6e8be23990e8234a3a62461ddbb moja name <you@example.com> 1752527019 +0200	commit: jakies gui
+467a32347eb1e6e8be23990e8234a3a62461ddbb d36e4c52a748f6225fb50a3781528f462747d191 moja name <you@example.com> 1752608260 +0200	commit: dodano baze
+d36e4c52a748f6225fb50a3781528f462747d191 ef0fb0024a8576518800d0a9b0ef2362065d3404 moja name <you@example.com> 1752613860 +0200	commit: Dodano gui, loop, thread
+ef0fb0024a8576518800d0a9b0ef2362065d3404 60f99947451d8b32906c97d2d74feaeb7dc9be13 moja name <you@example.com> 1752615409 +0200	commit: zapis
+60f99947451d8b32906c97d2d74feaeb7dc9be13 7a59057e3489f3ac4b58152ea235f2b89477f703 moja name <you@example.com> 1752617539 +0200	commit: trzeba sie pochylić nad wątkami
+7a59057e3489f3ac4b58152ea235f2b89477f703 e9299d73b74d9ca7e94fb0754c65dfd2566741ec moja name <you@example.com> 1752617565 +0200	commit: pochylić sie nmad wątkami
+e9299d73b74d9ca7e94fb0754c65dfd2566741ec a4e7670aa52f96c0a92af6334961b679e937183e moja name <you@example.com> 1752787992 +0200	commit: zbudowano v1, dodano budowanie configa
+a4e7670aa52f96c0a92af6334961b679e937183e 38c2f48704dad3269bac547c8d2cb52a3bf300f7 moja name <you@example.com> 1753033562 +0200	commit: okienka, zaplanowano zrobienie net i/o
+38c2f48704dad3269bac547c8d2cb52a3bf300f7 be0dc2fe961fef100eb4a7ef9d35bdf96d23e356 moja name <you@example.com> 1753036007 +0200	commit: po panice
+be0dc2fe961fef100eb4a7ef9d35bdf96d23e356 cf21ae625599158f8c5cf07d4af68758b4231f72 moja name <you@example.com> 1753132473 +0200	commit: dodano net i/o tab
+cf21ae625599158f8c5cf07d4af68758b4231f72 0807cb90865cd3f9423c17be6893b4a590623aef moja name <you@example.com> 1753133688 +0200	commit: zbuduj
+0807cb90865cd3f9423c17be6893b4a590623aef e1271a569be43f9f6addff897ee8bfc12a025742 moja name <you@example.com> 1753211398 +0200	commit: Dodano net stats
+e1271a569be43f9f6addff897ee8bfc12a025742 fab2b4f786cb41b518fef7accb623353b730b288 moja name <you@example.com> 1753306887 +0200	commit: dodano log_tab

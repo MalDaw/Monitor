@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/MalDaw/Monitor.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "Main"]
+	remote = origin
+	merge = refs/heads/Main
+[branch "backup_before_clean_slate"]
+	vscode-merge-base = origin/Main
